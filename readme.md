@@ -1,7 +1,7 @@
 # Ethereum Contract Deployment with web3
 
 Ethereum voting [Smart Contract](Voting.sol) 
-deployment interaction with it via [TestRPC](https://github.com/ethereumjs/testrpc).
+deployment migrations via [TestRPC](https://github.com/ethereumjs/testrpc). 
 
 
 + Lists available accounts
